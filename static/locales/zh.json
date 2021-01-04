@@ -1,8 +1,8 @@
 {
-  "website":{
+  "website": {
     "title": "杰克的博客"
   },
-  "nav":{
+  "nav": {
     "home": "首页",
     "about_me": "关于我",
     "skills": "技能",
@@ -11,14 +11,14 @@
     "blog": "博客",
     "link": "友情链接"
   },
-  "about_me":{
+  "about_me": {
     "about_me": "关于我",
     "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
   },
-  "skills":{
+  "skills": {
     "my_skills": "我的技能"
   },
-  "projects":{
+  "projects": {
     "my_projects": "我的项目",
     "saplatform": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
     "jalpc": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它有非常全面的功能，可以很方便的修改和使用，适应多种设备。",
@@ -28,8 +28,12 @@
     "familycode": "这是一个销售基因检测产品的微信商城。我使用Django和jQuery weui写这个项目. 这是明码的主要项目，你可以通过微信扫码二维码查看这个项目。",
     "ztool": "Z-Tool是为我自己写的一个项目，我们可以使用电脑/微信小程序查询一些有用的信息。前端是用VueJS/微信小程序框架实现，后台是通过Flask提供API。"
   },
-  "career":{
+  "career": {
     "my_career": "职业生涯",
+    "apple": "Apple",
+    "apple_des": "在苹果，我为工厂智能生产系统做贡献.",
+    "apple_date": "2017年10月",
+    "apple_job": "运维开发工程师",
     "nextcode": "Nextcode",
     "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
     "nextcode_date": "2016年4月",
@@ -47,12 +51,11 @@
     "college_date": "2013年7月",
     "college_job": "学生"
   },
-  "blog":{
+  "blog": {
     "my_blog": "我的博客"
   },
-  "link":{
+  "link": {
     "link": "友情链接",
     "view": "次访问"
   }
-
 }

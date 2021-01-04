@@ -1,10 +1,24 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Apple
+    i18n: apple
+  desc:
+    detail: Work as a DevOps engineer for manufacture design system in Apple.
+    i18n: apple_des
+  date:
+    detail: Oct. 2017
+    i18n: apple_date
+  job:
+    detail: Dev Ops
+    i18n: apple_job
+  icon: fa-plus-square
+
+- name:
     detail: Nextcode
     i18n: nextcode
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    detail: I was in Nextcode and develop website with Python code for genetic analysis.
     i18n: nextcode_des
   date:
     detail: Apr. 2016
