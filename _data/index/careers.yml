@@ -12,7 +12,7 @@
   job:
     detail: Dev Ops
     i18n: apple_job
-  icon: fa-plus-square
+  icon: fa-apple
 
 - name:
     detail: Nextcode
